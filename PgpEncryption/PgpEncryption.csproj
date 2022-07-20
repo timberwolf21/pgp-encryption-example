@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>PgpEncryption</RootNamespace>
+        <TargetFramework>net6.0</TargetFramework>
+        <AssemblyName>PgpEncryption</AssemblyName>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="BouncyCastle" Version="1.8.9" />
+    </ItemGroup>
+
+</Project>

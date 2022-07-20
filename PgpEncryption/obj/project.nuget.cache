@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pn5UWaMoe2S9knM9ooEklu4iamwMgo0Yc19Qy4VQDO1adqn2ru4b7tvkqfO2k70x+1RiRkN1jcpcy1DTrdlbDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thaya\\RiderProjects\\PgpEncyption\\PgpEncryption\\PgpEncryption.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thaya\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BouncyCastle 1.8.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
